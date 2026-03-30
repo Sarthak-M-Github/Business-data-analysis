@@ -30,7 +30,7 @@ This repository contains exploratory data analysis and visualization projects on
 - Dashboard and visualization
 
 # Key Insights
-1. Identified correlations between health metrics such as BMI, cholesterol, and cardiovascular risk.
-2. Observed seasonal sales trends and profit variations across product categories.
-3. Analyzed employee distribution and recruitment trends across departments.
-4. Built dashboards to visualize business insights.
+1. High BMI and cholesterol levels showed correlation with cardiovascular risk in healthcare dataset.
+2. Sales showed seasonal trends with higher revenue during specific months.
+3. Certain product categories contributed majority of profit in retail dataset.
+4. Employee recruitment and department distribution analysis showed imbalance across departments.
