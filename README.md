@@ -1,13 +1,14 @@
 # Business-data-analysis
 
 # Overview :
-This project involves exploratory data analysis and visualization on multiple datasets including healthcare, Amazon sales, employee HR data, and retail superstore data to extract insights and identify trends.
+This repository contains exploratory data analysis and visualization projects on multiple datasets including healthcare data, Amazon sales data, employee HR data, and heart disease data. The goal of these projects was to extract insights, identify trends, and build dashboards for business decision support.
 
 # Datasets
 1. Healthcare employee health dataset
 2. Amazon sales dataset
 3. Employee HR dataset
-4. Superstore retail dataset
+4. Heart disease dataset
+5. Retail / crop production dataset (Tableau dashboard)
 
 # Tools and Technologies
 - Python
@@ -22,11 +23,11 @@ This project involves exploratory data analysis and visualization on multiple da
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Statistical analysis
--Sales trend analysis
-- Profit analysis
+- Sales trend analysis
+- Profit and revenue analysis
 - Employee distribution and recruitment analysis
 - Health metric correlation analysis
-- Dashboard creation
+- Dashboard and visualization
 
 # Key Insights
 1. Identified correlations between health metrics such as BMI, cholesterol, and cardiovascular risk.
