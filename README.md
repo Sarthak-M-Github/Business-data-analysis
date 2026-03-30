@@ -4,19 +4,19 @@
 This project involves exploratory data analysis and visualization on multiple datasets including healthcare, Amazon sales, employee HR data, and retail superstore data to extract insights and identify trends.
 
 # Datasets
-Healthcare employee health dataset
-Amazon sales dataset
-Employee HR dataset
-Superstore retail dataset
+1. Healthcare employee health dataset
+2. Amazon sales dataset
+3. Employee HR dataset
+4. Superstore retail dataset
 
 # Tools and Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Tableau
-Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Tableau
+- Jupyter Notebook
 
 # Analysis Performed
 Data cleaning and preprocessing
