@@ -19,17 +19,17 @@ This project involves exploratory data analysis and visualization on multiple da
 - Jupyter Notebook
 
 # Analysis Performed
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-Statistical analysis
-Sales trend analysis
-Profit analysis
-Employee distribution and recruitment analysis
-Health metric correlation analysis
-Dashboard creation
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+-Sales trend analysis
+- Profit analysis
+- Employee distribution and recruitment analysis
+- Health metric correlation analysis
+- Dashboard creation
 
 # Key Insights
-Identified correlations between health metrics such as BMI, cholesterol, and cardiovascular risk.
-Observed seasonal sales trends and profit variations across product categories.
-Analyzed employee distribution and recruitment trends across departments.
-Built dashboards to visualize business insights.
+1. Identified correlations between health metrics such as BMI, cholesterol, and cardiovascular risk.
+2. Observed seasonal sales trends and profit variations across product categories.
+3. Analyzed employee distribution and recruitment trends across departments.
+4. Built dashboards to visualize business insights.
